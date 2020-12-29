@@ -1,0 +1,2 @@
+* `for`:mi entras estou se cumpla hago esto
+* `&&`, `||`, `!`:valores de verdad
