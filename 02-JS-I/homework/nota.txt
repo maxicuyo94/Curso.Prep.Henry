@@ -1,0 +1,5 @@
+Variables:trozos de memoria con nombre
+Strings:palabras
+Funciones (argumentos, return):conjuntos de acciones predefinnidas
+Declaraciones if:preguntas al sistema si esto es verdad hacemos esto sino, hacemos esto
+Valores booleanos (true, false):respuestas si o no , verdadero o flaso blancco o negro
